@@ -83,7 +83,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\DestroyByBoundary.cs" />
     <Compile Include="Assets\Scripts\DestroyContace.cs" />
-    <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\Randomrotator.cs" />
     <Compile Include="Assets\Scripts\playercontoller.cs" />
